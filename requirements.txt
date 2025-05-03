@@ -1,0 +1,23 @@
+# 기본 데이터 핸들링 및 모델링
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyarrow==14.0.2
+
+# 자연어 처리
+nltk
+textblob
+
+# TF-IDF 기반 벡터화
+scikit-learn  # 이미 포함되어 있음
+
+# 데이터셋 로딩 (HuggingFace)
+datasets
+
+# 오버샘플링 (class imbalance 대응)
+imbalanced-learn
+
+# 기타
+tqdm
